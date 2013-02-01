@@ -20,7 +20,7 @@
 #ifndef _LSF_H_
 #define _LSF_H_
 
-#include <config.h>
+#include <lsfconfig.h>
 #include <stdio.h>
 #include <stdint.h>
 #include <errno.h>

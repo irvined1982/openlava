@@ -412,6 +412,7 @@ exit 0
 # headers
 %{_includedir}/lsbatch.h
 %{_includedir}/lsf.h
+%{_includedir}/lsfconfig.h
 
 # docs
 %doc COPYING

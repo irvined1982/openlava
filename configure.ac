@@ -4,7 +4,7 @@
 # Copyright (C) 2011 David Bigagli
 #
 AC_INIT(openlava, 2.0)
-AC_CONFIG_HEADERS(config.h)
+AC_CONFIG_HEADERS(lsfconfig.h)
 AC_PREFIX_DEFAULT([/opt/openlava-2.0])
 
 
